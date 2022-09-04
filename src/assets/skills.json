@@ -1,0 +1,102 @@
+[
+  {
+    "id": 0,
+    "name": "JavaScript",
+    "types": [0]
+  },
+  {
+    "id": 1,
+    "name": "React",
+    "types": [0]
+  },
+  {
+    "id": 2,
+    "name": "Sass",
+    "types": [0]
+  },
+  {
+    "id": 3,
+    "name": "Storybook",
+    "types": [0]
+  },
+  {
+    "id": 4,
+    "name": "TypeScript",
+    "types": [0]
+  },
+  {
+    "id": 5,
+    "name": "BEM",
+    "types": [0]
+  },
+  {
+    "id": 6,
+    "name": "Ant Design",
+    "types": [0]
+  },
+  {
+    "id": 7,
+    "name": "Formik",
+    "types": [0]
+  },
+  {
+    "id": 8,
+    "name": "Redux",
+    "types": [0]
+  },
+  {
+    "id": 9,
+    "name": "RTK",
+    "types": [0]
+  },
+  {
+    "id": 10,
+    "name": "C#",
+    "types": [1]
+  },
+  {
+    "id": 11,
+    "name": "ASP.NET Core",
+    "types": [1]
+  },
+  {
+    "id": 12,
+    "name": "Entity Framework",
+    "types": [1]
+  },
+  {
+    "id": 13,
+    "name": "Clean Architecture",
+    "types": [1]
+  },
+  {
+    "id": 14,
+    "name": "LINQ",
+    "types": [1]
+  },
+  {
+    "id": 15,
+    "name": "MS SQL",
+    "types": [1]
+  },
+  {
+    "id": 16,
+    "name": "AutoMapper",
+    "types": [1]
+  },
+  {
+    "id": 17,
+    "name": "JWT",
+    "types": [0, 1]
+  },
+  {
+    "id": 18,
+    "name": "CORS",
+    "types": [1]
+  },
+  {
+    "id": 19,
+    "name": "Fluent Validation",
+    "types": [1]
+  }
+]
