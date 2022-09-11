@@ -14,6 +14,11 @@ export const Header: React.FC = () => {
         <div className='header__menu_item'>
           <Link to='/works'>Projects</Link>
         </div>
+        <div className='header__menu_item'>
+          <a href='CV_Vadym_Chornyi.pdf' download='CV_Vadym_Chornyi.pdf'>
+            Resume
+          </a>
+        </div>
       </div>
     </div>
   );
