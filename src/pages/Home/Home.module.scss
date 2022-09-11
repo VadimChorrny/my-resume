@@ -1,4 +1,5 @@
 @import '../../scss/variables';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
 
 .root {
   display: flex;
@@ -6,6 +7,10 @@
   justify-content: center;
   flex-direction: column;
   margin-top: 15%;
+
+  span {
+    font-family: 'Montserrat', sans-serif;
+  }
 
   &__intro {
     font-size: 3rem;
@@ -75,5 +80,11 @@
   100% {
     background-size: 57%;
     background-position: 0 0;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .root {
+    text-align: center;
   }
 }

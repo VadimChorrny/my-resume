@@ -1,0 +1,17 @@
+.categories {
+  ul {
+    display: flex;
+    gap: 10%;
+
+    li {
+      padding: 0.5rem;
+      border: 1px solid white;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+  }
+  .active {
+    border: 1px solid black;
+    color: black;
+  }
+}

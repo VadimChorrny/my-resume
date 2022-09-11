@@ -11,9 +11,8 @@ export const Header: React.FC = () => {
         <div className='header__menu_item'>
           <Link to='/skills'>Skills</Link>
         </div>
-        <div className='header__menu_item'>EN</div>
         <div className='header__menu_item'>
-          <Link to='/works'>Works</Link>
+          <Link to='/works'>Projects</Link>
         </div>
       </div>
     </div>

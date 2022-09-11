@@ -1,102 +1,42 @@
 [
   {
     "id": 0,
-    "name": "JavaScript",
-    "types": [0]
+    "name": "Pizza Site",
+    "description": "A full-fledged site for choosing and ordering pizza online. The site includes filtering, pagination, and search (optimized with debounce).",
+    "technology": ["React", "RTK", "TypeScript", "MockAPI"],
+    "types": [0],
+    "link": "https://react-pizza-v2.vercel.app/"
   },
   {
     "id": 1,
-    "name": "React",
-    "types": [0]
+    "name": "Vegetable Store",
+    "description": "A site for ordering vegetables online and receiving products offline.The site contains: Functionality of photo processing, authorization with the help of zheviti.",
+    "technology": [
+      "C#",
+      "ASP.NET Core",
+      "MS SQL",
+      "React",
+      "JWT",
+      "Bootstrap",
+      "Formik"
+    ],
+    "types": [0, 1],
+    "link": "https://github.com/VadimChorrny/Cropper"
   },
   {
     "id": 2,
-    "name": "Sass",
-    "types": [0]
+    "name": "Sushi Site",
+    "description": "A site for ordering sushi and other Chinese food.",
+    "technology": ["C#(.NET 3.0)", "ASP.NET MVC", "Bootstrap", "SweetAlert"],
+    "types": [0, 1],
+    "link": "https://github.com/VadimChorrny/Sushi-Site-Work-Version.git"
   },
   {
     "id": 3,
-    "name": "Storybook",
-    "types": [0]
-  },
-  {
-    "id": 4,
-    "name": "TypeScript",
-    "types": [0]
-  },
-  {
-    "id": 5,
-    "name": "BEM",
-    "types": [0]
-  },
-  {
-    "id": 6,
-    "name": "Ant Design",
-    "types": [0]
-  },
-  {
-    "id": 7,
-    "name": "Formik",
-    "types": [0]
-  },
-  {
-    "id": 8,
-    "name": "Redux",
-    "types": [0]
-  },
-  {
-    "id": 9,
-    "name": "RTK",
-    "types": [0]
-  },
-  {
-    "id": 10,
-    "name": "C#",
-    "types": [1]
-  },
-  {
-    "id": 11,
-    "name": "ASP.NET Core",
-    "types": [1]
-  },
-  {
-    "id": 12,
-    "name": "Entity Framework",
-    "types": [1]
-  },
-  {
-    "id": 13,
-    "name": "Clean Architecture",
-    "types": [1]
-  },
-  {
-    "id": 14,
-    "name": "LINQ",
-    "types": [1]
-  },
-  {
-    "id": 15,
-    "name": "MS SQL",
-    "types": [1]
-  },
-  {
-    "id": 16,
-    "name": "AutoMapper",
-    "types": [1]
-  },
-  {
-    "id": 17,
-    "name": "JWT",
-    "types": [0, 1]
-  },
-  {
-    "id": 18,
-    "name": "CORS",
-    "types": [1]
-  },
-  {
-    "id": 19,
-    "name": "Fluent Validation",
-    "types": [1]
+    "name": "Virus Checker",
+    "description": "A site for checking files for viruses. When uploading a file to the server, 32 antiviruses are checked at once.The project used: scannerAPI, Bootstrap, SweetAlert.",
+    "technology": ["HTML", "CSS", "PHP", "SweetAlert"],
+    "types": [0, 1],
+    "link": "https://github.com/VadimChorrny/Viruscheck.git"
   }
 ]
